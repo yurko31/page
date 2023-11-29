@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ссылка</title>
+</head>
+<body>
+
+    <h2>Перейти на другую страницу:</h2>
+    <a href="url_вашей_страницы.html">Название вашей страницы</a>
+
+</body>
+</html>
